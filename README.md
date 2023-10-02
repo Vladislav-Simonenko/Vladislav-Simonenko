@@ -7,6 +7,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository)
+![GitHub](https://github.com/favicon.ico)
 
 <!--
 **Vladislav-Simonenko/Vladislav-Simonenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
