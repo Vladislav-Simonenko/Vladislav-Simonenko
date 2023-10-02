@@ -46,7 +46,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladislav-Simonenko&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vladislav-Simonenko&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=-145DEG,1F214D,50366F,BF3475,EE6C45)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vladislav-Simonenko&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=145DEG,1F214D,50366F,BF3475,EE6C45)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vladislav-Simonenko&theme=vision_friendly_dark)
 
