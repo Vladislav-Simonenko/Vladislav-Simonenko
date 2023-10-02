@@ -18,13 +18,13 @@
 ![Sass](https://img.shields.io/static/v1?label=&message=Sass&color=%23CC6699&style=for-the-badge&logo=Sass&logoColor=white)
 ![Framer motion](https://img.shields.io/static/v1?label=&message=Framer+motion&color=%230055FF&style=for-the-badge&logo=framer&logoColor=white)
 ![React Router](https://img.shields.io/static/v1?label=&message=React+Router&color=%23CA4245&style=for-the-badge&logo=reactrouter&logoColor=white)
-
 ![Vercel](https://img.shields.io/static/v1?label=&message=Vercel&color=%23000000&style=for-the-badge&logo=Vercel&logoColor=white)
 ![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=%23646CFF&style=for-the-badge&logo=Vite&logoColor=white)
 
 ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=%232496ED&style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=%234479A1&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=%23339933&style=for-the-badge&logo=node.js&logoColor=white)
+![Sequelize](https://img.shields.io/static/v1?label=&message=Sequelize&color=%2352B0E7&style=for-the-badge&logo=sequelize&logoColor=white)
 ![NestJS](https://img.shields.io/static/v1?label=&message=NestJS&color=%23E0234E&style=for-the-badge&logo=NestJS&logoColor=white)
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=%2347A248&style=for-the-badge&logo=mongoDB&logoColor=white)
 ![Nginx](https://img.shields.io/static/v1?label=&message=Nginx&color=%23009639&style=for-the-badge&logo=Nginx&logoColor=white)
