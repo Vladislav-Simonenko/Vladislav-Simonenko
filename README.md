@@ -6,6 +6,7 @@
   <div id="main">
     <h5>Languages and Tools</h5>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
   </div>
 
