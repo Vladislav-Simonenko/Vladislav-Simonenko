@@ -5,7 +5,7 @@
 </head>
 <body>
   <div id="header" align="center" class="shimmer">
-    <h1>Hi there, I'm Vlad</h1>
+    <h1 style={{background: linear-gradient(90deg, #eee 25%, #ddd 50%, #eee 75%)}}>Hi there, I'm Vlad</h1>
     <h3>Full Stack Developer</h3>
   </div>
 </body>
