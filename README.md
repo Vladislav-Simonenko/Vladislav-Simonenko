@@ -1,4 +1,4 @@
-  <div id="header" align="center">
+  <div id="header" >
     <h3>Hi there, I'm Vlad</h3>
     <h5>Full Stack Developer</h5>
   </div>
@@ -42,25 +42,10 @@
 ![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=%23FC6D26&style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=%23E95420&style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### My Stats :
+### 📊 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladislav-Simonenko&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vladislav-Simonenko&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1F214D,50366F,BF3475,EE6C45,EE6C45)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vladislav-Simonenko&theme=vision_friendly_dark)
-
-<!--
-**Vladislav-Simonenko/Vladislav-Simonenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
