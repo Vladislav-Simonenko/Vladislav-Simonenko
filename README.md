@@ -42,6 +42,10 @@
 ![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=%23FC6D26&style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=%23E95420&style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladislav-Simonenko&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **Vladislav-Simonenko/Vladislav-Simonenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
