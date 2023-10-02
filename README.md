@@ -5,11 +5,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)
+![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository)
 
 <!--
 **Vladislav-Simonenko/Vladislav-Simonenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
