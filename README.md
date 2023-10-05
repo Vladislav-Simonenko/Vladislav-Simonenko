@@ -44,7 +44,7 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladislav-Simonenko&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vladislav-Simonenko)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vladislav-Simonenko&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1F214D,50366F,BF3475,EE6C45,EE6C45)](https://github.com/anuraghazra/github-readme-stats)
 
