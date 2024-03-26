@@ -51,8 +51,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vladislav-Simonenko&theme=vision_friendly_dark)
 
 ### 💻 Preview : (WIP)
-git projects [git projects](https://github.com/username/Links-Repository).
+git projects [git projects](https://github.com/Vladislav-Simonenko?tab=repositories).
 
 demos:
-- [demo 1](https://example.com/app1)
-- [demo 2](https://example.com/app2)
+- [demo 1](https://hack-net-vert.vercel.app/)
+- [demo 2](https://coffe-landing-page-six.vercel.app/)
